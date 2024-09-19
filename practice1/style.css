@@ -1,0 +1,38 @@
+*{
+     margin: 0;
+     padding: 0;
+     cursor:none; /*To hide the original arrow cursor so that we can only use the our custom cursor. This arrow cursor will be there but hidden.*/
+}
+body, html{
+     padding: 10px;
+     min-height: 100vh;
+     height: auto;
+     width: 100%;
+}
+
+.styleIt{
+     font-style: italic;
+     color: white;
+     font-weight: 500;
+     background-color: crimson;
+     width: 600px;
+}
+
+.container{
+     display: flex;
+     flex-wrap: wrap;
+     justify-content: flex-start;
+     gap: 10px;
+     padding: 10px;
+}
+
+.newCard{
+     width: 300px;
+     height: 400px;
+}
+
+.newBlock{
+     font-size: 20px;
+     background-color: skyblue;
+     transform: rotate(30deg);
+}

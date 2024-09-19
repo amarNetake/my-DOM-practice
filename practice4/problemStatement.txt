@@ -1,0 +1,2 @@
+1. Create a form with input fields and submit button.
+2. Use JavaScript to validate the form and display the error message if input is invalid.

@@ -1,0 +1,2 @@
+1. Create a page with 2 images and a button.
+2. When the button is clicked swap the images.

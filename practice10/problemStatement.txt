@@ -1,0 +1,1 @@
+Build a character counter for text area or input field, which updates in real time

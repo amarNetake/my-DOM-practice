@@ -1,0 +1,8 @@
+.showElement{
+     display: block;
+     color: rgb(196, 6, 6);
+}
+
+.hideElement{
+     display: none;
+}

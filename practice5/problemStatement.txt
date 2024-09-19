@@ -1,0 +1,2 @@
+1. Create an unordered list. 
+2. Allow users to create and remove items dynamically using buttons.
